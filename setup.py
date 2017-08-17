@@ -7,7 +7,7 @@
 import os
 from setuptools import setup, find_packages
 
-import flask_logsocketio as mypkg
+import flask_bluestatic as mypkg
 
 NAME = mypkg.__namepkg__
 VERSION = mypkg.__version__
