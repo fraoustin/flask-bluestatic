@@ -33,3 +33,6 @@ Usage
 
     if __name__ == "__main__":
         app.run(port=8080)
+
+
+You can change url of static page with url_prefix parameter
